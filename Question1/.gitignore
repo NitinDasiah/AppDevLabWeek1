@@ -1,4 +1,4 @@
 #Ignore pdf and zip files
 *.pdf
 *.zip
-*.pdf
+*.docx
